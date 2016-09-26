@@ -1,0 +1,11 @@
+{
+  "name": "Raspberry-Pi",
+  "version": "0.0.1",
+  "description": "the raspberry-pi board",
+  "main": "raspberry-pi.js",
+  "dependencies": {
+    "board": "^0.0.1"
+  },
+  "author": "Chieze Franklin",
+  "license": "ISC"
+}
